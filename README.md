@@ -95,5 +95,5 @@ It also helped strengthen my understanding of how to structure and maintain a da
 **Developed with C# and Microsoft SQL Server.**
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Omlahmar/DVLD-System/main/images/DVLD.png" alt="DVLD Screenshot" width="100%">
+  <img src="images/DVLD.png" alt="DVLD Screenshot" width="100%">
 </p>
