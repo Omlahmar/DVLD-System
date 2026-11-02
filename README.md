@@ -5,7 +5,7 @@ DVLD System is a desktop application developed to simplify and manage the daily 
 
 The application provides a centralized environment for handling applicants, license services, driving tests, payments, and user accounts. It was developed using C# WinForms and Microsoft SQL Server, with a focus on organizing business logic and separating application responsibilities.
 
-![DVLD Screenshot](images/DVLD.png)
+![DVLD Screenshot](https://raw.githubusercontent.com/Omlahmar/DVLD-System/main/images/DVLD.png)
 ## 🏗️ Architecture
 
 The project is organized using a **Three-Tier Architecture**, separating the user interface, business logic, and database operations.
