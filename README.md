@@ -1,7 +1,6 @@
 # DVLD System – Driving & Vehicle License Department Management
 
 ## 📖 Overview
-![C#](https://img.shields.io/badge/C%23-.NET-purple?logo=csharp&logoColor=white)
 DVLD System is a desktop application developed to simplify and manage the daily operations of a Driving and Vehicle License Department.
 
 The application provides a centralized environment for handling applicants, license services, driving tests, payments, and user accounts. It was developed using C# WinForms and Microsoft SQL Server, with a focus on organizing business logic and separating application responsibilities.
