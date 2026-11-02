@@ -1,0 +1,13 @@
+C:\Users\lenovo\source\repos\DVLD\DVLD-DataAccess\bin\Debug\DVLD-DataAccess.exe.config
+C:\Users\lenovo\source\repos\DVLD\DVLD-DataAccess\bin\Debug\DVLD-DataAccess.exe
+C:\Users\lenovo\source\repos\DVLD\DVLD-DataAccess\bin\Debug\DVLD-DataAccess.pdb
+C:\Users\lenovo\source\repos\DVLD\DVLD-DataAccess\bin\Debug\Guna.UI2.dll
+C:\Users\lenovo\source\repos\DVLD\DVLD-DataAccess\obj\Debug\DVLD-DataAccess.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\DVLD\DVLD-DataAccess\obj\Debug\DVLD_DataAccess.Form1.resources
+C:\Users\lenovo\source\repos\DVLD\DVLD-DataAccess\obj\Debug\DVLD_DataAccess.Properties.Resources.resources
+C:\Users\lenovo\source\repos\DVLD\DVLD-DataAccess\obj\Debug\DVLD-DataAccess.csproj.GenerateResource.cache
+C:\Users\lenovo\source\repos\DVLD\DVLD-DataAccess\obj\Debug\DVLD-DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\DVLD\DVLD-DataAccess\obj\Debug\DVLD-Dat.A8BF05FE.Up2Date
+C:\Users\lenovo\source\repos\DVLD\DVLD-DataAccess\obj\Debug\DVLD-DataAccess.exe
+C:\Users\lenovo\source\repos\DVLD\DVLD-DataAccess\obj\Debug\DVLD-DataAccess.pdb
+C:\Users\lenovo\source\repos\DVLD\DVLD-DataAccess\obj\Debug\DVLD-DataAccess.exe.config

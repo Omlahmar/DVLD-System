@@ -1,0 +1,15 @@
+C:\Users\lenovo\source\repos\DVLD\DVLD-Business\bin\Debug\DVLD-Business.exe.config
+C:\Users\lenovo\source\repos\DVLD\DVLD-Business\bin\Debug\DVLD-Business.exe
+C:\Users\lenovo\source\repos\DVLD\DVLD-Business\bin\Debug\DVLD-Business.pdb
+C:\Users\lenovo\source\repos\DVLD\DVLD-Business\bin\Debug\DVLD-DataAccess.exe
+C:\Users\lenovo\source\repos\DVLD\DVLD-Business\bin\Debug\Guna.UI2.dll
+C:\Users\lenovo\source\repos\DVLD\DVLD-Business\bin\Debug\DVLD-DataAccess.pdb
+C:\Users\lenovo\source\repos\DVLD\DVLD-Business\bin\Debug\DVLD-DataAccess.exe.config
+C:\Users\lenovo\source\repos\DVLD\DVLD-Business\obj\Debug\DVLD-Business.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\DVLD\DVLD-Business\obj\Debug\DVLD_Business.Properties.Resources.resources
+C:\Users\lenovo\source\repos\DVLD\DVLD-Business\obj\Debug\DVLD-Business.csproj.GenerateResource.cache
+C:\Users\lenovo\source\repos\DVLD\DVLD-Business\obj\Debug\DVLD-Business.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\DVLD\DVLD-Business\obj\Debug\DVLD-Bus.13DA0325.Up2Date
+C:\Users\lenovo\source\repos\DVLD\DVLD-Business\obj\Debug\DVLD-Business.exe
+C:\Users\lenovo\source\repos\DVLD\DVLD-Business\obj\Debug\DVLD-Business.pdb
+C:\Users\lenovo\source\repos\DVLD\DVLD-Business\obj\Debug\DVLD-Business.exe.config
