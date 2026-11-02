@@ -1,4 +1,0 @@
-*.cs linguist-detectable=true
-*.sql linguist-detectable=false
-*.csproj linguist-detectable=false
-*.sln linguist-detectable=false
